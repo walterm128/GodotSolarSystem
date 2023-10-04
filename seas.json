@@ -1,0 +1,32 @@
+[
+  {
+    "lat": -10.0,
+    "lng": -23.1,
+    "label": "Mare Anguis",
+    "url": "https://en.wikipedia.org/wiki/Mare_Anguis"
+  },
+  {
+    "lat": -38.9,
+    "lng": 93.0,
+    "label": "Mare Australe",
+    "url": "https://en.wikipedia.org/wiki/Mare_Australe"
+  },
+  {
+    "lat": -3.64450,
+    "lng": -17.47753,
+    "label": "Mare Cognitum",
+    "url": "https://en.wikipedia.org/wiki/Mare_Cognitum"
+  },
+  {
+    "lat": 26.13407,
+    "lng": 3.62981,
+    "label": "Mare Crisium",
+    "url": "Mare Crisium"
+  },
+  {
+    "lat": 56.0,
+    "lng": 1.4,
+    "label": "Mare Frigoris",
+    "url": "Mare Frigoris"
+  }
+]
