@@ -1,6 +1,6 @@
 # GodotSolarSystem
 
-https://walterm128.github.io/GodotSolarSystem/
+https://walterm122.itch.io/solar-system
 
 
 26-12-2023
